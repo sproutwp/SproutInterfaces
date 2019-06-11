@@ -1,0 +1,15 @@
+{
+    "name" : "sproutwp/sprout_interfaces",
+    "description" : "A collection of base interfaces that are very commonly found within the Sprout Framework.",
+    "version" : "1.0.0-dev",
+    "keywords" : [
+        "interfaces",
+        "building block",
+        "base"
+    ],
+    "autoload": {
+        "psr-4": {
+            "SproutInterfaces\\": ""
+        }
+    }
+}
