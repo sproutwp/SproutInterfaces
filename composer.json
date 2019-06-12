@@ -1,5 +1,5 @@
 {
-    "name" : "sproutwp/sprout_interfaces",
+    "name" : "sproutwp/SproutInterfaces",
     "description" : "A collection of base interfaces that are very commonly found within the Sprout Framework.",
     "version" : "1.0.0-dev",
     "keywords" : [
