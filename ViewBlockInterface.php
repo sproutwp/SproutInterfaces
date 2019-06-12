@@ -4,7 +4,7 @@
  * @subpackage SproutInterfaces
  * @since 1.0.0
  */
-namespace SproutInterfaces;
+namespace Sprout\SproutInterfaces;
 
 interface ViewBlockInterface
 {
